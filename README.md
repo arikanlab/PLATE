@@ -6,8 +6,7 @@ PLATE: Plasmid Atlas of Food Ecosystems
 
 If you use this repository, please cite:
 
-Author list, PLATE: Plasmid Atlas of Food Ecosystems, *bioRxiv*, 2026
-[Link].
+Aslan MU, Kayacan RA, Söğütdelen SA, Sağıroğlu Ö, Arıkan M. PLATE: a global atlas of food metaplasmidomes, *bioRxiv*, 2026 [Link].
 
 ------------------------------------------------------------------------
 
@@ -23,14 +22,17 @@ Author list, PLATE: Plasmid Atlas of Food Ecosystems, *bioRxiv*, 2026
 
 **PLATE** is a comprehensive resource of **food-related plasmidomes**,
 built with an end-to-end pipeline that retrieves metagenomic assemblies,
-identifies plasmid sequences and annotates them.
+identifies putative plasmid sequences and annotates them.
 
 The PLATE datasets are publicly available through the links below:
 
 | Catalog | Catalog link |
 |------------------------------------|------------------------------------|
-| PLATE - Plasmids | [Link](https://plate-db.com/downloads) |
-| PLATE - Metadata | [Link](https://plate-db.com/samples) |
+| bPLATE - Sequences | [Link](https://plate-db.com/downloads) |
+| bPLATE - Metadata | [Link](https://plate-db.com/samples) |
+| rPLATE - Sequences | [Link](https://plate-db.com/samples) |
+| rPLATE - Metadata | [Link](https://plate-db.com/samples) |
+
 
 PLATE is also accessible as a searchable catalog at
 <https://plate-db.com/>
