@@ -20,7 +20,7 @@ Aslan MU, Kayacan RA, Söğütdelen SA, Sağıroğlu Ö, Arıkan M. PLATE: a glo
 
 # Overview
 
-**PLATE** is a comprehensive resource of **food-related plasmidomes**,
+**PLATE** is a comprehensive resource of **food metaplasmidomes**,
 built with an end-to-end pipeline that retrieves metagenomic assemblies,
 identifies putative plasmid sequences and annotates them.
 
